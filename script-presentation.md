@@ -4,9 +4,9 @@ This is meant as a guide to help you prepare for the MC (master of ceremonies) r
 ([Original template](https://github.com/codebar/barcelona/blob/master/processes/workshops-preparation/script-presentation.md) by Codebar Barcelona)
 
 “Welcome everyone,
-I am Gaetano, I am a junior software engineer and one of the organizers of Codebar Oxford. I am sharing this volunteer experience with Suwanna, Connie and Mel. This evening your host will be Suwanna and me.
+I am ___, I am a ____ and one of the organizers of Codebar Oxford. I am sharing this volunteer experience with Gaetano, Suwanna, Connie and Mel. This evening your host will be ___ and me.
 
-I can see we have new members today, ___ . Welcome!
+I can see we have new members today, ____ . Welcome!
 
 I just want to introduce Codebar, who we are, and what we would love to achieve. Codebar is a UK-based charity. We now have chapters all across the world. The mission of codebar is to help underrepresented groups learn to program in a safe and collaborative environment. For this reason, we want to thank the coaches, and each individual student. 
 
